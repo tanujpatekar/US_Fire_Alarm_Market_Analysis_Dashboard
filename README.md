@@ -3,10 +3,10 @@
 ## Dashboard Views
 
 ### View 1
-![Fire Alarm Dashboard - View 1](Fire_Alarm_Dashboard_View1.png)
+![Fire Alarm Dashboard - View 1](Fire_Alarm_Dashboard_View1.png.png)
 
 ### View 2
-![Fire Alarm Dashboard - View 2](Fire_Alarm_Dashboard_View2.png)
+![Fire Alarm Dashboard - View 2](Fire_Alarm_Dashboard_View2.png.png)
 
 # Introduction
 
