@@ -1,4 +1,4 @@
-# US Fire Alarm Market Dashboard 🔥🚨
+# US Fire Alarm Market Analysis Dashboard 🔥🚨
 
 ## Dashboard Views
 
@@ -12,7 +12,7 @@
 
 This Power BI project analyzes the U.S. fire alarm installation market using permit data. The report has two views: one for contractors, installation types and cities, and one for a state-level overview with filters.
 
-This was a professional project built at **Ohm Analytics**. It is shared here with my manager's permission, and only the approved, aggregated view is shown. Raw permit records, property addresses and the source data file are not included.
+This was a professional project built at **Ohm Analytics**. **It is shared here with my manager's permission, and only the approved, aggregated view is shown**. Raw permit records, property addresses and the source data file are not included.
 
 # Project Objectives 💡
 
